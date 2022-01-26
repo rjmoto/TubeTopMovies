@@ -1,6 +1,12 @@
 # TubeTopMovies
 React Project
 
+Created with: HTML, CSS, JS, React, TMDB API
+
+Screenshot of App:
+![image](https://user-images.githubusercontent.com/62805525/151239354-66227d2c-c86b-481a-81d3-9242397c650b.png)
+
+
 ### PROPOSAL DESCRIPTION
 
 My app currently carries a working title of "Tube Top".  There are many movie apps out there (and at this point a seemingly infinite number of movies), so I've decided to try to make an app with the more discerning viewer in mind.  
